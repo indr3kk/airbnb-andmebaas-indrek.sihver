@@ -1,0 +1,14 @@
+
+{
+  "name": "airbnb-andmebaas",
+  "version": "1.0.0",
+  "description": "Airbnb andmebaasi seemneskript ja MySQL Docker projekt",
+  "main": "seeds/seemneskript.js",
+  "type": "module",
+  "scripts": {
+    "start": "node seeds/seemneskript.js"
+  },
+  "dependencies": {
+    "mysql2": "^3.10.0"
+  }
+}
